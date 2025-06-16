@@ -1,11 +1,11 @@
-# ClimateGuard 🌍
+# ClimateForge 🌍
 
-**Your AI-powered climate resilience companion**
+**Shaping a Safer Climate Future — From Awareness to Action.**
 
-ClimateGuard is a comprehensive mobile-first web application built with React Native and Expo that helps individuals and communities take meaningful climate action. The app provides real-time environmental monitoring, AI-powered insights, community project coordination, and emergency preparedness tools.
+ClimateForge is a comprehensive mobile-first web application built with React Native and Expo that helps individuals and communities take meaningful climate action. The app provides real-time environmental monitoring, AI-powered insights, community project coordination, and emergency preparedness tools.
 
 ![Built on Bolt](https://img.shields.io/badge/Built%20on-Bolt-blue?style=for-the-badge)
-![Expo SDK](https://img.shields.io/badge/Expo%20SDK-52.0.30-black?style=for-the-badge&logo=expo)
+![Expo SDK](https://img.shields.io/badge/Expo%20SDK-53.0.0-black?style=for-the-badge&logo=expo)
 ![React Native](https://img.shields.io/badge/React%20Native-0.79.1-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?style=for-the-badge&logo=typescript)
 
@@ -67,8 +67,8 @@ ClimateGuard is a comprehensive mobile-first web application built with React Na
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tusharbhayani/climateguard.git
-   cd climateguard
+   git clone https://github.com/tusharbhayani/ClimateForge.git
+   cd ClimateForge
    ```
 
 2. **Install dependencies**
@@ -192,7 +192,7 @@ npx expo build:web
 ## 🗂️ Project Structure
 
 ```
-climateguard/
+ClimateForge/
 ├── app/                          # App routes (Expo Router)
 │   ├── (tabs)/                   # Tab navigation
 │   │   ├── index.tsx            # Home screen
@@ -318,9 +318,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Getting Help
 
-- 📧 Email: support@climateguard.app
-- 🐛 Issues: [GitHub Issues](https://github.com/tusharbhayani/climateguard/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/tusharbhayani/climateguard/discussions)
+- 📧 Email: support@ClimateForge.app
+- 🐛 Issues: [GitHub Issues](https://github.com/tusharbhayani/ClimateForge/issues)
 
 ## 🎯 Roadmap
 
