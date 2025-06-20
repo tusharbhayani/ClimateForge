@@ -4,6 +4,9 @@
 
 ClimateForge is a comprehensive mobile-first web application built with React Native and Expo that helps individuals and communities take meaningful climate action. The app provides real-time environmental monitoring, AI-powered insights, community project coordination, and emergency preparedness tools.
 
+<td style="background:#222; text-align:center;"><img src="assets/images/bolt.png" width="250px"></td>
+<td style="background:#222; text-align:center;"><img src="assets/images/supabase.png" width="250px"></td>
+
 ![Built on Bolt](https://img.shields.io/badge/Built%20on-Bolt-blue?style=for-the-badge)
 ![Expo SDK](https://img.shields.io/badge/Expo%20SDK-53.0.0-black?style=for-the-badge&logo=expo)
 ![React Native](https://img.shields.io/badge/React%20Native-0.79.1-blue?style=for-the-badge&logo=react)
